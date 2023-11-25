@@ -1,0 +1,2 @@
+# Video-Keyframe-Detection-Extraction-through-SSIM-Analysis-MiniBatchKMeans-Clustering
+Automated Video Keyframe Extraction employs SSIM for initial selection &amp; MiniBatchKMeans Clustering for refinement . Frames below a specified SSIM threshold are identified as keyframes . MiniBatchKMeans clusters features , selecting frames closest to centroids , creating a summarized video for efficient content representation .
